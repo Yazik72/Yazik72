@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yazik72
 - 👀 I’m interested in programming and small projects
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on small Russian startup
+- 💞️ I’m don't looking to collaborate now
 - 📫 My Discord: Yazik#6496, My Telegram: t.me/psnakedev
 
 <!---
